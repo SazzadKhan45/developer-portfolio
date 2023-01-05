@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.text-primary{
+    color: #FD6E0A;
+}
+
+
+/* header and navigation style */
+.nav-title{
+    font-weight: 400;
+    font-size: 45px;
+    
+}
